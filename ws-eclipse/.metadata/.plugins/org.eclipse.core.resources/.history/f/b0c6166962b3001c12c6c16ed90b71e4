@@ -1,0 +1,19 @@
+package hello_world;
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		int[] x = {0, 1, 0};
+		int contaZero = 0;
+		for(int i = 0; i < x.length; i++) {
+			if(x[i] == 0) {
+				System.out.println(i);
+			} else {
+				contaZero++;
+			}
+		}
+		if(contaZero == x.length) {
+			System.out.println(-1);
+		}
+	}
+}

@@ -1,0 +1,5 @@
+package br.edu.pucgoias.ProjetoUsuarios.model;
+
+public class Usuario {
+
+}

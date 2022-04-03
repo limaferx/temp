@@ -1,0 +1,17 @@
+package hello_world;
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String mensagem = "Hello World!";
+				System.out.print(mensagem);
+				
+				int[] arr = {1, 4, 3, 2};
+			    for(int i = arr.length; i != 0; i--) {
+			        System.out.print(arr[i]);
+			    }
+
+	}
+
+}

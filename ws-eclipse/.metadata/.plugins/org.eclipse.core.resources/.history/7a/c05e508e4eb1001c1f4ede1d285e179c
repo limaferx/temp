@@ -1,0 +1,5 @@
+package br.edu.pucgoias.ProjetoUsuarios.repository;
+
+public interface UsuarioRepository {
+
+}
