@@ -28,7 +28,7 @@ public class CarrosController {
 		return this.carrosRepository.save(carros);
 	}
 	
-	@PostMapping("/altera/{id}")
+	@PostMapping("/altera")
 	public Carros carroAltera(@RequestBody Carros carros) {
 		return this.carrosRepository.save(carros);
 	}

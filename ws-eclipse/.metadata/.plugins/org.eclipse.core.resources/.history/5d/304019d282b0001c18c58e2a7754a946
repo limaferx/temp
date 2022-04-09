@@ -1,5 +1,0 @@
-package br.edu.pucgoias.TesteSwagger;
-
-public @interface EnableSwagger2 {
-
-}

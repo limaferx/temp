@@ -1,9 +1,0 @@
-package br.edu.pucgoias.ProjetoUsuarios.repository;
-
-import org.springframework.data.jpa.repository.JpaRepository;
-
-import br.edu.pucgoias.ProjetoUsuarios.model.Usuario;
-
-public interface UsuarioRepository {
-
-}
