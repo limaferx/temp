@@ -24,6 +24,5 @@ public class App {
         for(int i = 0; i < valores.length; i++) {
             System.out.println("Valores[" + i + "]: " + valores[i]);
         }
-        System.out.println("");
     }
 }
